@@ -1,1 +1,1 @@
-# workshop-data_visualization_htmlwidgets
+# Data Visualization with *htmlwidgets*
