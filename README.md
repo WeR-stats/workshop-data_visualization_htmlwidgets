@@ -1,1 +1,1 @@
-# Data Visualization with *htmlwidgets*
+## Interactive Data Visualization with *R*: *htmlwidgets*
